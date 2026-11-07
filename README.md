@@ -1,6 +1,6 @@
 # Projeto 03 - Mini Firewall de Portas
 
-**Disciplina:** Redes e Segurança da Informação | **Turma:** ______
+**Disciplina:** Redes e Segurança da Informação | **Turma:** 1J
 **Integrantes:** Joaquim C, Joaquim F, Samuel G
 **Data:** 07/11/2026
 
