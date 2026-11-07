@@ -43,8 +43,3 @@ gcc firewall.c -o firewall
 ./firewall
 ```
 
-Se preferir manter o arquivo com o nome `firewall.cpp`, a compilação também funciona com:
-```bash
-gcc -x c firewall.cpp -o firewall
-./firewall
-```
